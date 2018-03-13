@@ -5,7 +5,11 @@ Nebraska has good public schools. Graduation rates are consistently high. Studen
 ## Graduation Rate
 As stated, graduation rates are high, second only to Iowa in the nation. But there are disparities among groups. Females who are economically disadvantaged always outperform males in the same category for graduation rates in Nebraska. With the exception of American Indian and Alaskan Native and the 2011-2012 year for Asians, females also outperform males if they live above the poverty line. Females and males living in poverty have graduation rates that fluctuate overtime. However, non-poverty students, both male and female, seem to have an upward trend line.
 
+![GraduationFRL](gradFRLNotFRLRace.png)
+
 When looking at graduation rates by males only, poverty and non-poverty students have more overlap, especially among American Indian or Alaska Native, Black or African American, and Hispanic. Similarly, females by non-poverty and poverty have overlap for Black and African American and Hispanic races. This would suggest that there is less of gap among these races, especially, it would seem, among Hispanics. Alternatively, Asians have a very large gap, between 15 and 20 percent. Whites also have a consistent gap, whether male or female, but to a lesser degree at 5-10 percent.
+
+![GraduationGender](gradracefemalesmales.png)
 
 ## Mathematics Proficiency
 When comparing poverty with non-poverty students, females and males perform very similarly to one another. It is worth noting that, with the exception of non-poverty female and male American Indian or Alaska Natives, all races are on a steady uphill trend. One would expect that any group not in poverty would be on the uphill climb but they are, I fact, going the opposite direction. Also, those in poverty in the same group are going in a positive direction.
