@@ -21,13 +21,13 @@ Comparing males, poverty versus non-poverty and females, poverty versus non-pove
 ![ProficiencyMathFRL](profMathracefemalesmales.png)
 
 ## Reading Proficiency
-The comparison of poverty to non-poverty students yields similar results to Mathematics with female and male students except that the gap has widened among gender. The upward mirrored trend line remains the same except for non-poverty American Indian or Alaska Natives.
+Similar to Mathematics, males poverty versus non-poverty and females poverty versus non-poverty, shows a large gap that mirrors its counterpart almost exactly over time but for American Indian or Alaska Native. The comparison of poverty to non-poverty students yields similar results to Mathematics with female and male students except that the gap has widened among gender. The mirrored upward trend line remains the same except for non-poverty American Indian or Alaska Natives.
 
-Similar to Mathematics, males poverty versus non-poverty and females poverty versus non-poverty, shows a large gap that mirrors its counterpart almost exactly over time but for American Indian or Alaska Native. The very large gap among Asians, poverty versus non-poverty seems to show the difference in Asian classes in Nebraska.
+![ProficiencyMathFRL](profReadraceFRLNonFRL.png)
 
 ## Science Proficiency 
 The comparison here of poverty to non-poverty students has a closer relationship to Mathematics in that the mirrored gap of males and females is fairly tight and sometimes intertwining. Students in poverty in all races but White perform similarly with White student in poverty outperforming all others. However, Asians not in poverty outperform all other non-poverty groups.
 
 Again, males poverty versus non-poverty and females poverty versus non-poverty, shows a large gap for all races. Most races have a gap of 20 percent for both genders between poverty and non-poverty. Both Asian females and males show a 40 percent gap between income status.
 
-If the state of Nebraska would like to make systematic and systemic improvements in graduation rates and proficiency in Mathematics, Reading, and Science, we need to target all minority groups in poverty and minority males. Interventions in these groups will reduce the achievement gap and increase graduation rates and proficiency overall.
+For the state of Nebraska to make systematic and systemic improvements in graduation rates and proficiency in Mathematics, Reading, and Science, school administrators will need to target all minority groups in poverty and males in all minority groups. Interventions in these groups will reduce the achievement gap and increase graduation rates and proficiency overall. Focused attention should be paid to American Indian and Alaska Natives as the data shows their needs are different from other groups (those in poverty are increasing in Mathematics proficiency while those above the poverty line are declining).
