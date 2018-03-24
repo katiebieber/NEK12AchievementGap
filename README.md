@@ -7,11 +7,11 @@ Nebraska has good public schools. Graduation rates are consistently high. Averag
 ## Graduation Rate
 Graduation rates in Nebraska are at an all-time high, second only to Iowa in the nation. But there are disparities among groups. Males who are economically disadvantaged (Free or Reduced Lunch or FRL) are always outperformed by females in the same category for graduation rates in Nebraska in every race. With the exception of American Indian and Alaskan Native, and the 2011-2012 school year for Asians, females also outperform males when both groups live above the poverty line (Not Free or Reduced Lunch or Non-FRL). Females and males living in poverty have graduation rates that fluctuate over time but non-poverty students, both male and female, seem to have an upward trend line. The gap between males and females has persisted over time and does not appear to be lessening.
 
-![GraduationFRL](gradFRLNotFRLRace.png)
+![GraduationFRL](gradFRLNotFRLRace2.png)
 
 When looking at graduation rates by males only, poverty and non-poverty students have more overlap, especially among American Indian or Alaska Native, Black or African American, and Hispanic races. Similarly, females by non-poverty and poverty have overlap for Black or African American and Hispanic races. This would suggest that there is less of a gap among these races by gender, especially, it would seem, among Hispanics where lines overlap several times and graduation rates fluctuate. Alternatively, Asians have a very large gap among the same gender but differing income status, between 15 and 20 percent. Whites also have a consistent gap, whether male or female, but to a lesser degree at 5-10 percent. Again this gap among Asians and Whites is significant and remaining so over time.
 
-![GraduationGender](gradracefemalesmales.png)
+![GraduationGender](gradracefemalesmales2.png)
 
 ## Mathematics Proficiency
 When comparing poverty with non-poverty students in Mathematics proficiency, females and males perform very similarly to one another. It is worth noting that, with the exception of non-poverty female and male American Indian or Alaska Natives, all races are on a steady uphill trend. One would expect that any group not experiencing poverty would be on an uphill climb to some degree, but American Indian or Alaska Natives are, in fact, going the opposite direction. Conversely, American Indian or Alaska Natives in poverty are going in a positive direction. This would indicate that this group has unique challenges than those of other races.
@@ -25,7 +25,7 @@ Comparing males, poverty versus non-poverty, and females, poverty versus non-pov
 ## Reading Proficiency
 Similar to proficiency in Mathematics, males, poverty versus non-poverty, and females, poverty versus non-poverty, show a large gap that mimics its counterpart almost exactly over time but for American Indian or Alaska Native. The comparison of poverty to non-poverty students yields similar results to Mathematics with female versus male students except that the gap has widened among gender. The mirrored upward trend line remains the same as Mathematics except for non-poverty American Indian or Alaska Natives. The significant and persistent gap between poverty and non-poverty students in Reading is alarming, hovering around 20 percentage points. Of course, gender matters in Reading proficiency but not nearly to the degree that income does in the wide achievement gap.
 
-![ProficiencyMathFRL](profReadraceFRLNonFRL.png)
+![ProficiencyReadFRL](profReadraceFRLNonFRL2.png)
 
 ## Science Proficiency 
 The comparison here of poverty to non-poverty students has a closer relationship to Mathematics than Reading in that the mirrored gap of males and females is fairly tight and sometimes intertwines in proficiency. Students in poverty in all races but White perform fairly similarly with White students in poverty outperforming all others. However, Asians not in poverty outperform all other non-poverty groups.
